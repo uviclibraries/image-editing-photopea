@@ -21,4 +21,4 @@ In this activity we are going to change the aspect ratio of an image without cro
 - The color in your **Color Picker** should still be selected from the background from the earlier steps, so you can just select the **Paint Bucket** again and hover over the blank area (make sure Layer 0 is selected) and click to paint the canvas with that color.
 - To save, follow the steps from the previous activities to export the file as a JPG or PNG. If you want to preserve the layers for future editing, you can save it as a PSD as well. 
 
-[NEXT STEP: Removing Someone/Something from a Photo](removing-parts-photo.html){: .btn .btn-blue }
+bonus-activities
