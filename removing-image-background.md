@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- Removing the Background from Images
-nav_order: 1
+title: 2- Removing the Background from Images
+nav_order: 2
 parent: Bonus Activities
 ---
