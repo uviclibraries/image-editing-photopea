@@ -22,13 +22,13 @@ In a previous activity, we did a simple removal of simple, tiny objects but this
 12. When you practice with other images, you may find you need to use different settings with the Clone Stamp to achieve better results. Feel free to experiment and remember that making lots of mistakes is part of the learning process. The more advanced levels of this type of work is something that people generally pay professionals to do and can take a very long time to master. Step 14 has some links to more images to practice with.
 13. Examples of images that would be difficult to remove the person from and the reasons why:
 At first glance, this one looks like it wouldn’t be too bad, but one of the biggest challenges would be to convincingly recreate the tree trunks behind the person:<br>
-[Example 1](https://www.pexels.com/photo/person-walking-in-foggy-forest-3354172/)<br>
+[Example 1](https://www.pexels.com/photo/person-walking-in-foggy-forest-3354172/){:target="_blank"}<br>
 This one looks deceptively simple, but once the person is removed, the sharp-edged shadow they are casting must also be removed from the rocks:<br>
-[Example 2](https://www.pexels.com/photo/rear-view-of-man-sitting-on-rock-by-sea-307008/)
+[Example 2](https://www.pexels.com/photo/rear-view-of-man-sitting-on-rock-by-sea-307008/){:target="_blank"}
 14. Here are some good images to practice on:<br>
-[Example A](https://www.pexels.com/photo/landscape-mountains-nature-sky-104347/) (This one has a sign instead of a person)<br>
-[Example B](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/)<br>
-[Example C](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/)<br>
+[Example A](https://www.pexels.com/photo/landscape-mountains-nature-sky-104347/){:target="_blank"} (This one has a sign instead of a person)<br>
+[Example B](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/){:target="_blank"}<br>
+[Example C](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/){:target="_blank"}<br>
 
-[Next Steps: Removing The Background from Images](removing-image-background.html){: .btn .btn-blue } or <br>
+[Next Steps: Removing The Background from Images](removing-image-background.html){:target="_blank"}{: .btn .btn-blue } or <br>
 [Earn a Badge](informal-credentials.html){: .btn .btn-blue }
