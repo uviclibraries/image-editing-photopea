@@ -13,12 +13,13 @@ Let’s move on using Photopea and do some basic edits to a photo. If you have a
 3. **Converting to Black and White**:- <img src="images/adjustmentlayer.png" style="float:right;width:180px;" alt="Adjustment Layer">
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**.
 - A new layer called Black & White 1 will appear in your Layers window on the right. It will sit above your Background layer (original image). The layer Properties window should already automatically open. The Black & White properties window has sliders for all the colour channels. If you do not see it, double click on the little two-tone rectangle in the left side of the Black & White layer: This will bring up the Properties window.
+ ![Layers Black and White 1](images/layers.png)
 - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the intensity for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.<br>
   <img src="images/blackandwhite.png" style="float:right;width:180px;" alt="Properties Black and White Slider">
 - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**.
 - Go into the **Curves** layer properties. Click on the diagonal line in three places to **create three evenly spaced round handles** (see first image to the right). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example screenshot, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed.
-  <img src="images/curves.png" style="float:right;width:180px;" alt="Curves">
-4. **Save**: 
+ 
+4. **Save**:  <img src="images/curves.png" style="float:right;width:180px;" alt="Curves">
 - Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
 - Click on **File -> Save As PSD** in the upper left corner. We are going to save this in the Photoshop .psd format, which will preserve the layers for the project we are working on, and not touch the original photo. Choose where you would like to save the file, and give it a name you will remember. This will save a PSD copy of the file to your Downloads folder. This is a good practice if you are doing a lot of detailed work and want to save your work partway into the project in case you lose it, or if you need to stop and go do something else for a while. 
 5. **Heal Tool**: Next we will use **Heal** to remove the visible screws in the post.
