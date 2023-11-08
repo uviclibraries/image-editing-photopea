@@ -34,4 +34,5 @@ If you have a graphic or photo and need to get rid of the background and convert
 11. Note: As the goal for these images is to be placed in another project, it’s best to export at full resolution. 
 - To export your image, click on **File -> Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%, but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window. (If you want a smaller image, you can descreen the **Width/Height** and/or decrease the **Quality**.) Click the **Save** button in the bottom corner when ready. Your saved image will be downloaded to your hard drive.
 
-
+[Next Steps: Take Home Sheet](take-home-sheet.html){: .btn .btn-blue } or <br>
+[Earn a Badge](informal-credentials.html){: .btn .btn-blue }
