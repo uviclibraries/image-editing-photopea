@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/photopea-logo.png" style="float:right;width:180px;" alt="image description">
+<img src="images/photopea-logo.png" style="float:right;width:180px;" alt="logo">
 
 # Image Editing with Photopea 
 
