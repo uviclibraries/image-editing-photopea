@@ -12,6 +12,7 @@ Let’s move on using Photopea and do some basic edits to a photo. If you have a
 2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 3. **Converting to Black and White**:
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**.
+- <img src="images/adjustmentlayer.png" style="float:right;width:180px;" alt="Adjustment Layer">
 - A new layer called Black & White 1 will appear in your Layers window on the right. It will sit above your Background layer (original image). The layer Properties window should already automatically open. The Black & White properties window has sliders for all the colour channels. If you do not see it, double click on the little two-tone rectangle in the left side of the Black & White layer: This will bring up the Properties window.
 - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the intensity for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.
 - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**.
