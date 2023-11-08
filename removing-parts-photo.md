@@ -30,4 +30,5 @@ This one looks deceptively simple, but once the person is removed, the sharp-edg
 [Example B](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/)<br>
 [Example C](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/)<br>
 
-
+[Next Steps](removing-image-background){: .btn .btn-blue } or <br>
+[Earn a Badge](informal-credentials.html){: .btn .btn-blue }
