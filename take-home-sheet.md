@@ -21,3 +21,5 @@ parent: Bonus Activities
 [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}<br>
 [Colour scheme generator](https://coolors.co){:target="_blank"}<br> 
 [Design freebies](https://graphicburger.com){:target="_blank"}
+
+[Next Step: Earn a Badge](informal-credentials.html){: .btn .btn-blue }
