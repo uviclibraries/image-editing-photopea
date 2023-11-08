@@ -8,7 +8,7 @@ parent: Bonus Activities
 # Photopea Bonus Activity: Removing the Background from Images
 If you have a graphic or photo and need to get rid of the background and convert it to a transparent background, you may find this guide helpful. If you have any questions, please ask!
 
-1. Download this image for the exercise: [Pixabay Image](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/)
+1. Download this image for the exercise: [Pixabay Image](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/){:target="_blank"}
 2. Open the photo in Photopea by either clicking on the **Open From Computer** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. 
 
 ## Method #1: Background Eraser “Once Mode”
@@ -19,7 +19,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 5. See the Exporting instructions at the end of this activity to save it.
 
 ## Method #2: Quick Selection Tool
-1. Download this image for the exercise: [Unsplash Image](https://unsplash.com/photos/xEX_o0haX6c)
+1. Download this image for the exercise: [Unsplash Image](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 2. Find the **Quick Selection Tool** in the left toolbar menu.
 3. In the properties menu across the top, click on **Refine Edge**.
 4. **Click on the white square** in the top menu and choose a brush size with the little downward pointing arrow. Brush across all the parts of the image you want to keep. Those areas will lighten and then appear in the preview on the right.
