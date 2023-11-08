@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Photoshop for Beginners Activity #2: Basic Photo Edits
 Let’s move on using Photopea and do some basic edits to a photo. If you have any questions, please ask!
 
-1. Download this image for the exercise: [Unsplash](https://unsplash.com/photos/xEX_o0haX6c)
+1. Download this image for the exercise: [Unsplash](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 2. Open the photo in Photopea by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 3. **Converting to Black and White**:
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**.
