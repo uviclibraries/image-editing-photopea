@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 4- Removing Someone/Something from a Photo
-nav_order: 4
-parent: Workshop Activities
+title: 1- Removing Someone/Something from a Photo
+nav_order: 1
+parent: Bonus Activities
 ---
 
 # Photopea for Beginners Bonus Activity: Removing Someone/Something from a Photo
