@@ -25,7 +25,7 @@ At first glance, this one looks like it wouldn’t be too bad, but one of the bi
 [Example 1](https://www.pexels.com/photo/person-walking-in-foggy-forest-3354172/)<br>
 This one looks deceptively simple, but once the person is removed, the sharp-edged shadow they are casting must also be removed from the rocks:<br>
 [Example 2](https://www.pexels.com/photo/rear-view-of-man-sitting-on-rock-by-sea-307008/)
-14. Here are some good images to practice on:
+14. Here are some good images to practice on:<br>
 [Example A](https://www.pexels.com/photo/landscape-mountains-nature-sky-104347/) (This one has a sign instead of a person)<br>
 [Example B](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/)<br>
 [Example C](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/)<br>
