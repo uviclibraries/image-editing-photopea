@@ -13,7 +13,7 @@ parent: Bonus Activities
 ## Resources:
 [A list of other free (or inexpensive) alternatives to Photoshop](https://skylum.com/blog/best-free-photoshop-alternatives)<br>
 [A web-based platform for making posters, flyers, brochures, logos and more](https://www.canva.com)<br>
-- [we have an introductory workshop for this](https://uviclibraries.github.io/design-layout/)<br>
+- [we have an introductory workshop for Canva here](https://uviclibraries.github.io/design-layout/)<br>
 
 [Professional quality, diverse, and inclusive resource for free stock photography](https://www.pexels.com)<br>
 [Another excellent resources for free, pro quality stock photography](https://unsplash.com/)<br>
