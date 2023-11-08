@@ -9,7 +9,7 @@ parent: Workshop Activities
 Let’s move on using Photopea and do some basic edits to a photo. If you have any questions, please ask!
 
 1. Download this image for the exercise: [Unsplash](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
-2. Open the photo in Photopea by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
+2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 3. **Converting to Black and White**:
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**.
 - A new layer called Black & White 1 will appear in your Layers window on the right. It will sit above your Background layer (original image). The layer Properties window should already automatically open. The Black & White properties window has sliders for all the colour channels. If you do not see it, double click on the little two-tone rectangle in the left side of the Black & White layer: This will bring up the Properties window.
