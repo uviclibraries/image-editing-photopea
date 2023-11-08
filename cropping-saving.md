@@ -20,7 +20,7 @@ Let’s start with using Photopea to crop and export a smaller version of a phot
 
   <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
-      <img src="images/crop-photoshop.gif">
+      <img src="images/crop-photopea.gif">
       </div>
       
 4. **Exporting**: Here you have two options -- Exporting in a full size image (good for printing if the original was high enough resolution as in this example), and exporting in smaller file sizes which are better for sharing online. Follow Step A for the full size or Step B for the smaller size. Note: if you already cropped your image to a small pixel size, rather than a ratio, during the cropping portion of this activity, you will not need to save this image as a small file. 
