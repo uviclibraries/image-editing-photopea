@@ -9,8 +9,8 @@ parent: Workshop Activities
 
 Let’s start with using Photopea to crop and export a smaller version of a photo. If you have any questions, please ask!
 
-1. Go to [Pexels](https://www.pexels.com) and choose a photo to download. Click on the downward arrow icon on the image thumbnail, or if viewing the full image there will be a green Free Download button you can click on.
-2. Open the photo in [Photopea](https://www.photopea.com/) by either clicking on the **Open button** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. 
+1. Go to [Pexels](https://www.pexels.com){:target="_blank"} and choose a photo to download. Click on the downward arrow icon on the image thumbnail, or if viewing the full image there will be a green Free Download button you can click on.
+2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the **Open button** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. 
 3. **Crop Tool**: 
 - Click on the **Crop tool** in the left toolbar (see right to see which other tools are in that group that might be on top). A crop window with a grid will appear over the photo and the crop options will show across the top of the software.
 - Clicking on the **Ratio dropdown** menu at the top (it will be labeled as “Free”), you can choose a specific aspect ratio to lock the crop, or you can leave it clear to freehand it. **Select Fixed Ratio** and change the **W** and **H** values to **5** and **7**, the aspect ratio you would want if you were printing a 5x7 photo. Alternatively, you can choose a specific number of pixels or inches by selecting **FIxed Size** and typing in what you want: e.g.,  700 px by 460 px. (Tip: a 16 : 9 ratio is the common ratio for slide presentations and wide screen TVs.)
