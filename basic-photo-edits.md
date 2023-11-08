@@ -14,6 +14,10 @@ Let’s move on using Photopea and do some basic edits to a photo. If you have a
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**.
 - A new layer called Black & White 1 will appear in your Layers window on the right. It will sit above your Background layer (original image). The layer Properties window should already automatically open. The Black & White properties window has sliders for all the colour channels. If you do not see it, double click on the little two-tone rectangle in the left side of the Black & White layer: This will bring up the Properties window.<br>
  ![Layers Black and White 1](images/layers.png)
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/bw1-photopea.gif">
+      </div>
 - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the intensity for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.<br>
   <img src="images/blackandwhite.png" style="float:right;width:180px;" alt="Properties Black and White Slider">
 - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**.
@@ -32,6 +36,18 @@ You will most likely have a bandage icon (**Healing Brush** or **Spot Healing** 
 - Use the **Zoom tool** to zoom back out to see the whole photo. 
 6. **Exporting**:
 To export this to a full size PNG file, click on **File -> Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%,  but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window. Click the **Save** button in the bottom corner when ready.
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Basic Photo Edits](image-dimensions.html){: .btn .btn-blue }
 
