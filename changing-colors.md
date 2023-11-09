@@ -12,7 +12,7 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 3. **Basic Hue Adjustment**:- <img src="images/adjustmentlayerhue.png" style="float:right;width:180px;" alt="Hue Adjustment Layer">
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Hue/Saturation**, or you can quickly go to the bottom of the Layers panel and click on the half white circle icon to bring up the Adjustments layer menu and then click on Hue/Saturation. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the **Properties** panel for this layer. 
 4. In the **Properties** panel click on the little **two-sided arrow button** to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the pink heart shaped glasses worn by the dog. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Red” as it will recognize this colour is in the red colour range. <br>
- ![Layers Black and White 1](images/layers.png)
+ ![Properties Click Range](images/pickrange.png)
 5. Next, you can click and drag the **Hue slider** in the Properties panel to see the colour of the glasses lenses change. <br>
 **The results will not be perfect but there are a couple things we can do to refine things. First will be to adjust the colour range:**
 6. Drag the Hue slider all the way to the left.
