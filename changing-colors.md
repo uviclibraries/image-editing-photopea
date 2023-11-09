@@ -11,16 +11,16 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 3. **Basic Hue Adjustment**:- <img src="images/adjustmentlayerhue.png" style="float:right;width:180px;" alt="Hue Adjustment Layer">
 - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Hue/Saturation**, or you can quickly go to the bottom of the Layers panel and click on the half white circle icon to bring up the Adjustments layer menu and then click on Hue/Saturation. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the **Properties** panel for this layer. 
-4. In the **Properties** panel click on the little **two-sided arrow butto** to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the pink heart shaped glasses worn by the dog. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Red” as it will recognize this colour is in the red colour range. <br>
+4. In the **Properties** panel click on the little **two-sided arrow button** to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the pink heart shaped glasses worn by the dog. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Red” as it will recognize this colour is in the red colour range. <br>
  ![Layers Black and White 1](images/layers.png)
-5. Next, you can click and drag the **Hue slider** in the Properties panel to see the colour of the glasses lenses change. 
+5. Next, you can click and drag the **Hue slider** in the Properties panel to see the colour of the glasses lenses change. <br>
 **The results will not be perfect but there are a couple things we can do to refine things. First will be to adjust the colour range:**
 6. Drag the Hue slider all the way to the left.
 7. In the Properties panel there is a colour spectrum with a few sliders showing what colour range has been sampled. You may notice that parts of the dog have become a little blotchy as some of the natural colours in the sampled spectrum exist in the dog’s body and ears. By moving these colour spectrum sliders around, you can adjust the specific part of the spectrum you want sampled. 
 8. If you drag the handle on the right towards the left, the colour distortions in the dog’s body will start to disappear.
 9. Pull the handle on the far left over to the left a bit to correct the blotchy bits in the glasses lenses.
 10. With these adjustments, try dragging the Hue slider back and forth again to see the results.
-11. Save or export the image as you did in previous exercises.
+11. Save or export the image as you did in previous exercises.<br>
 **What if you have an image with multiple parts of the same colour and only want to change one or some?**
 1. Download this image for the exercise: [Cat on Pexels](https://www.pexels.com/photo/selective-focus-photo-of-grey-cat-1521304/){:target="_blank"}
 2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
