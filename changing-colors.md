@@ -20,9 +20,10 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 **The results will not be perfect but there are a couple things we can do to refine things. First will be to adjust the colour range:**
 6. Drag the Hue slider all the way to the left.
 7. In the Properties panel there is a colour spectrum with a few sliders showing what colour range has been sampled. You may notice that parts of the dog have become a little blotchy as some of the natural colours in the sampled spectrum exist in the dog’s body and ears. By moving these colour spectrum sliders around, you can adjust the specific part of the spectrum you want sampled. 
+ ![Properties Spectrum](images/spectrum2.png)
 8. If you drag the handle on the right towards the left, the colour distortions in the dog’s body will start to disappear.
 9. Pull the handle on the far left over to the left a bit to correct the blotchy bits in the glasses lenses.
-10. With these adjustments, try dragging the Hue slider back and forth again to see the results.
+10. With these adjustments, try dragging the Hue slider back and forth again to see the results. <img src="images/dogblue.png" style="float:right;width:180px;" alt="White Dog Blue Glasses">
 11. Save or export the image as you did in previous exercises.<br>
 **What if you have an image with multiple parts of the same colour and only want to change one or some?**
 1. Download this image for the exercise: [Cat on Pexels](https://www.pexels.com/photo/selective-focus-photo-of-grey-cat-1521304/){:target="_blank"}
