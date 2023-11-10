@@ -22,11 +22,11 @@ If you have a graphic or photo and need to get rid of the background and convert
 1. Download this image for the exercise: [Unsplash Image](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 2. Find the **Quick Selection Tool** in the left toolbar menu.
 3. In the properties menu across the top, click on **Refine Edge**.
-4. **Click on the white square** in the top menu and choose a brush size with the little downward pointing arrow. Brush across all the parts of the image you want to keep. Those areas will lighten and then appear in the preview on the right.
+4. **Click on the white square** in the top menu and choose a brush size with the little downward pointing arrow. Brush across all the parts of the image you want to keep. Those areas will lighten and then appear in the preview on the right. ![Refine Edge White Square](images/refineedge.png)
 5. To zoom in to get a closer look, use the scroll wheel on your mouse or click on the **Plus** button in the top menu and click on the image to zoom.
 6. You may want to change the size of your brush to get small details.
 7. If the checkered transparent background makes it difficult to see detail, you can choose a different display background in the top right corner menu. A black background would be helpful for this image as all the excess light background becomes easily visible.
-8. To tidy up the edges, **click on the black square** in the top left corner and brush over the areas you want erased from your final image.
+8. To tidy up the edges, **click on the black square** in the top left corner and brush over the areas you want erased from your final image. ![Refine Edge Example](images/refineedge2.png)
 9. Click on **OK** in the top right corner when you are satisfied with your image and this will bring you back into the main Photopea screen.
 10. Trim away excess space by clicking on the **Crop Tool** in the left side toolbar. Click and drag the square handles around the perimeter of the image to show only the area that you want kept. Click the Checkmark at the top of the screen when you want to complete the crop.
 ![Image Erased Example](images/fullerase.png)
