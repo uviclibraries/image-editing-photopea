@@ -8,7 +8,6 @@ parent: Bonus Activities
 # Additional Photopea videos & projects:
 - [Photopea’s list of how-to pages](https://www.photopea.com/learn/){:target="_blank"}<br>
 - [Photopea project tutorials](https://www.photopea.com/tuts/){:target="_blank"}<br>
-- [Change the colour of something Example 1](https://www.youtube.com/watch?v=0wkdSpft8Ag){:target="_blank"} OR [Change the colour of something Example 2](https://www.youtube.com/watch?v=wMHV_fBkbZc){:target="_blank"}<br>
 
 ## Resources:
 [A list of other free (or inexpensive) alternatives to Photoshop](https://skylum.com/blog/best-free-photoshop-alternatives){:target="_blank"}<br>
@@ -17,6 +16,8 @@ parent: Bonus Activities
 
 [Professional quality, diverse, and inclusive resource for free stock photography](https://www.pexels.com){:target="_blank"}<br>
 [Another excellent resources for free, pro quality stock photography](https://unsplash.com/){:target="_blank"}<br>
+[Extentive library of free icons - check attribution requirements](https://thenounproject.com/)(:target="_blank"}<br>
+[Resource for free stock images as well as vector graphics](https://pixabay.com/)(:target="_blank"}<br>
 [Design inspiration](https://www.designspiration.com/){:target="_blank"}<br>
 [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}<br>
 [Colour scheme generator](https://coolors.co){:target="_blank"}<br> 
