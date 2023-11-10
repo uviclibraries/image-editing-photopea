@@ -24,7 +24,7 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 8. If you drag the handle on the right towards the left, the colour distortions in the dog’s body will start to disappear.
 9. Pull the handle on the far left over to the left a bit to correct the blotchy bits in the glasses lenses.
 10. With these adjustments, try dragging the Hue slider back and forth again to see the results. <img src="images/dogblue.png" style="float:right;width:180px;" alt="White Dog Blue Glasses">
-11. Save or export the image as you did in previous exercises.<br><br>
+11. Save or export the image as you did in previous exercises.<br><br><br>
 **What if you have an image with multiple parts of the same colour and only want to change one or some?**
 1. Download this image for the exercise: [Cat on Pexels](https://www.pexels.com/photo/selective-focus-photo-of-grey-cat-1521304/){:target="_blank"}<img src="images/cat.png" style="float:right;width:180px;" alt="Grey Cat in Grass">
 2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
