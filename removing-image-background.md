@@ -12,11 +12,11 @@ If you have a graphic or photo and need to get rid of the background and convert
 2. Open the photo in Photopea by either clicking on the **Open From Computer** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. 
 
 ## Method #1: Background Eraser “Once Mode”
-1. Find the **Background Eraser Tool**: In the left toolbar menu, **click and hold on the Eraser Tool** icon and a menu containing two eraser tools will pop up. Select **Background Eraser Tool**.
-2. In the properties menu across the top, change the **Eraser Size** to **200** by clicking on the downward arrow next to the white dot. set the **Mode** to **Once** and the **Tolerance** to **30**.
-3. **Click** once on the background and **keep the mouse button pressed** while you move it to start erasing the background, replaced with a grey and white checked background (indicating a transparent area). **Click and erase** across all the areas of the background in different colour ranges until the only parts of the graphic left are what you want to keep. Note: by having the **Mode** set to **Once**, when you click on a section of the background, the eraser samples that colour and then keeping the mouse button pressed, the eraser will only erase that colour, even if you brush across the clock. As the colour is a gradient, you will need to re-click and drag to resample and erase other sections of the background. If you need to get into smaller areas to sample the correct colour, you can resize the brush.
+1. Find the **Background Eraser Tool**: In the left toolbar menu, **click and hold on the Eraser Tool** icon and a menu containing two eraser tools will pop up. Select **Background Eraser Tool**. ![Eraser Tool](images/eraser.png)
+2. In the properties menu across the top, change the **Eraser Size** to **200** by clicking on the downward arrow next to the white dot. set the **Mode** to **Once** and the **Tolerance** to **30**. ![Brush Size](images/erasersettings.png)
+3. **Click** once on the background and **keep the mouse button pressed** while you move it to start erasing the background, replaced with a grey and white checked background (indicating a transparent area). **Click and erase** across all the areas of the background in different colour ranges until the only parts of the graphic left are what you want to keep. Note: by having the **Mode** set to **Once**, when you click on a section of the background, the eraser samples that colour and then keeping the mouse button pressed, the eraser will only erase that colour, even if you brush across the clock. As the colour is a gradient, you will need to re-click and drag to resample and erase other sections of the background. If you need to get into smaller areas to sample the correct colour, you can resize the brush.![Partial Background Erase](images/partial.png)
 4. Trim away excess space by clicking on the **Crop Tool** in the left side toolbar. Click and drag the square handles around the perimeter of the image to show only the area that you want kept. Click the Checkmark at the top of the screen when you want to complete the crop.
-5. See the Exporting instructions at the end of this activity to save it.
+5. See the Exporting instructions at the end of this activity to save it. ![Full Background Erase](images/fullerase.png)
 
 ## Method #2: Quick Selection Tool
 1. Download this image for the exercise: [Unsplash Image](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
@@ -29,7 +29,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 8. To tidy up the edges, **click on the black square** in the top left corner and brush over the areas you want erased from your final image.
 9. Click on **OK** in the top right corner when you are satisfied with your image and this will bring you back into the main Photopea screen.
 10. Trim away excess space by clicking on the **Crop Tool** in the left side toolbar. Click and drag the square handles around the perimeter of the image to show only the area that you want kept. Click the Checkmark at the top of the screen when you want to complete the crop.
-![Image Erased Example](images/erased.png)
+![Image Erased Example](images/fullerase.png)
 ## Export as a PNG:
 11. Note: As the goal for these images is to be placed in another project, it’s best to export at full resolution. 
 - To export your image, click on **File -> Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%, but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window. (If you want a smaller image, you can descreen the **Width/Height** and/or decrease the **Quality**.) Click the **Save** button in the bottom corner when ready. Your saved image will be downloaded to your hard drive.
