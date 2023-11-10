@@ -33,8 +33,8 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 5. Next, you can click and drag the Hue slider in the Properties panel to see the colour of the eyes change.<img src="images/cathue.png" style="float:right;width:180px;" alt="Grey Cat in Grass Magenta Eyes">
 6. You will notice at this point that the yellow round circles of the dappled out of focus light points in the background (commonly called “bokeh”) are changing colour along with the eyes, as well as some of the grass in the foreground. Follow the next steps to isolate only the eyes for the hue change.
 7. Click on the **white square in the Hue/Saturation layer** in the Layers panel to make sure it is selected (dashed lines around it).
-8. Go over to the left sidebar menu and click on the **colour picker** and choose **black**. Then select the **Brush Tool**. You can make the brush size bigger in the drop down menu at the top.
-9. Brush over the image to create a mask over any area you don’t want colour changes to happen. You will see the white square in the Layers panel turn black in the areas you have painted over.
+8. Go over to the left sidebar menu and click on the **colour picker** and choose **black**. Then select the **Brush Tool**. You can make the brush size bigger in the drop down menu at the top.  ![Sidebar Colour](images/colourpicker.png) ![Sidebar Colour 2](images/colourpicker2.png)
+9. Brush over the image to create a mask over any area you don’t want colour changes to happen. You will see the white square in the Layers panel turn black in the areas you have painted over.  ![Layers Mask](images/catmask.png)
 10. If you accidentally brush over an area you don’t want masked, you can either use the Undo function, or you can change the Brush colour to white and brush white over the same area to unmask it.
 11. Go back to the Hue slider and drag it back and forth until the eyes are the colour you want. At this point, the rest of the image should stay the same. <img src="images/catending.png" style="float:right;width:180px;" alt="Grey Cat in Grass Blue Eyes">
 12. Save or export the image as you did in previous exercises.
