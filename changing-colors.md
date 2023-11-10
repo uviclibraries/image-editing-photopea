@@ -40,6 +40,6 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 12. Save or export the image as you did in previous exercises.
 13. Here are some good images to practice on:
 - [Apples on Pexels](https://www.pexels.com/photo/dried-eucalyptus-branch-and-apples-on-a-white-surface-4856745/){:target="_blank"} (change one of the apples to another colour)
-- [Toy Car on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-yellow-car-toy-243206/){:target="_blank"} (change the colour of the car)
+- [Toy Car on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-yellow-car-toy-243206/){:target="_blank"} (change the colour of the car - this one is challenging due to the warm tones of the lighting in the whole image and through the windows of the car)
 [NEXT STEP: Bonus Activities Removing Someone/Something from a Photo](removing-parts-photo.html){: .btn .btn-blue } or<br>
 [Earn a Badge](informal-credentials.html){: .btn .btn-blue }
