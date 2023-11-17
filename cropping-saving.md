@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-# Photoshop for Beginners Activity #1: Cropping and Saving Photos for Online Use: 
+# Photopea for Beginners Activity #1: Cropping and Saving Photos for Online Use: 
 
 Let’s start with using Photopea to crop and export a smaller version of a photo. If you have any questions, please ask!
 
