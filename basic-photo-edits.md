@@ -22,6 +22,10 @@ Let’s move on using Photopea and do some basic edits to a photo. If you have a
   <img src="images/blackandwhite.png" style="float:right;width:180px;" alt="Properties Black and White Slider">
 - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**.
 - Go into the **Curves** layer properties. Click on the diagonal line in three places to **create three evenly spaced round handles** (see first image to the right). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example screenshot, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed.
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/curves1.gif">
+      </div>
  
 4. **Save**:  
 - Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
