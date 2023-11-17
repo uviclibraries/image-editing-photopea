@@ -26,3 +26,14 @@ In this activity we are going to change the aspect ratio of an image without cro
 
 [NEXT STEP: Changing Colours on Images](changing-colors.html){: .btn .btn-blue }
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
