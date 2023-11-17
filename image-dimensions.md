@@ -22,6 +22,10 @@ In this activity we are going to change the aspect ratio of an image without cro
 click on the **Color Picker** swatches at the bottom of the left toolbar (seen as the red square in the example on the right). This will bring up a **Color Picker** over the image with a little eyedropper tool. When you use that tool to click on the background colour, the Colour Picker will change to reflect the selected colour and you can then click OK. 
 <img src="images/eyedropper.png" style="float:right;width:180px;" alt="Eyedropper tool">
 - Next, click on the **Paint Bucket Tool** in the left toolbar. This may be hidden under the **Gradient Tool** (see right, below). Hover the Paint Bucket Tool over the checkered areas of the new canvas and then click. The colour you selected should fill in the whole empty areas. Do the same for the other blank area.
+  <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/color-picker.gif">
+      </div>
 - You should now have a full, square image with a matching background. To save it, go to **File-> Export As -> PNG.**
 4. **Placing an Image:**
 - For this second method, we will start with a blank canvas. Go to **File -> New**. A window will pop up with options for starting a new, blank document. Here you can choose the dimension necessary for your project. For this one, we are going to create a letter size image. There  are tabs under the size settings that come up for **Social, Photo, Print**, and other presets. **Click on Print**. This will open up a blank, white canvas in the dimensions of a letter size sheet of paper. 
