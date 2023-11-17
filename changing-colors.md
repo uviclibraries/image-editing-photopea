@@ -21,7 +21,10 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
  ![Properties Click Range](images/pickrange.png)
 5. Next, you can click and drag the **Hue slider** in the Properties panel to see the colour of the glasses lenses change. <br>
 <br><br>
-
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/hue-slider.gif">
+      </div>
 ## The results will not be perfect but there are a couple things we can do to refine things. First will be to adjust the colour range:
 6. Drag the Hue slider all the way to the left.
 7. In the Properties panel there is a colour spectrum with a few sliders showing what colour range has been sampled. You may notice that parts of the dog have become a little blotchy as some of the natural colours in the sampled spectrum exist in the dog’s body and ears. By moving these colour spectrum sliders around, you can adjust the specific part of the spectrum you want sampled. 
