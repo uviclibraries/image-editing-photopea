@@ -45,3 +45,15 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 - [Toy Car on Pexels](https://www.pexels.com/photo/selective-focus-photography-of-yellow-car-toy-243206/){:target="_blank"} (change the colour of the car - this one is challenging due to the warm tones of the lighting in the whole image and through the windows of the car)
 [NEXT STEP: Bonus Activities Removing Someone/Something from a Photo](removing-parts-photo.html){: .btn .btn-blue } or<br>
 [Earn a Badge](informal-credentials.html){: .btn .btn-blue }
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
