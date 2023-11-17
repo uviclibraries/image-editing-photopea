@@ -4,7 +4,7 @@ title: 4- Changing Colors of Images
 nav_order: 5
 parent: Workshop Activities
 ---
-# Photoshop for Beginners Activity #4: Changing the Colour of an Object
+# Photopea for Beginners Activity #4: Changing the Colour of an Object
 How to use the Hue/Saturation Adjustment layer to change object colours easily. If you have any questions, please ask!
 
 1. Download this image for the exercise: [Dog on Pexels](https://www.pexels.com/photo/medium-short-coated-white-dog-on-white-textile-2607544/ ){:target="_blank"}
