@@ -13,7 +13,13 @@ In this activity we are going to change the aspect ratio of an image without cro
   <img src="images/canvassize.png" style="float:right;width:180px;" alt="Canvas size">
 - Click on **Image -> Canvas Size**. This will pop up a window with Canvas Size options. For this example, we are going to turn this graphic from a rectangle into a square, so to do that, we will simply make sure that the lower number in **Height** pixels is changed to the same number as the **Width** by clicking in the box and typing. Your Photopea may have this number in Pixels or in Inches, feel free to use the drop down to change it. The **Anchor** with the arrows below, shows you where your original image will be placed in relation to the new adjusted canvas size. With a centre anchor, the original image will be placed in the centre of the larger canvas. Once you’ve increased the Height, you can click OK.
   <img src="images/stretchedcanvas.png" style="float:right;width:180px;" alt="Stretched Canvas Example">
-- The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. The checkered pattern indicates transparency. To match the background color, click on the **Color Picker** swatches at the bottom of the left toolbar (seen as the red square in the example on the right). This will bring up a **Color Picker** over the image with a little eyedropper tool. When you use that tool to click on the background colour, the Colour Picker will change to reflect the selected colour and you can then click OK. 
+- The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. The checkered pattern indicates transparency. To match the background color,
+
+  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/canvas-photopea.gif">
+      </div>
+click on the **Color Picker** swatches at the bottom of the left toolbar (seen as the red square in the example on the right). This will bring up a **Color Picker** over the image with a little eyedropper tool. When you use that tool to click on the background colour, the Colour Picker will change to reflect the selected colour and you can then click OK. 
 <img src="images/eyedropper.png" style="float:right;width:180px;" alt="Eyedropper tool">
 - Next, click on the **Paint Bucket Tool** in the left toolbar. This may be hidden under the **Gradient Tool** (see right, below). Hover the Paint Bucket Tool over the checkered areas of the new canvas and then click. The colour you selected should fill in the whole empty areas. Do the same for the other blank area.
 - You should now have a full, square image with a matching background. To save it, go to **File-> Export As -> PNG.**
