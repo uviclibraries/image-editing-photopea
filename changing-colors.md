@@ -37,11 +37,11 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 ## What if you have an image with multiple parts of the same colour and only want to change one or some?
 1. Download this image for the exercise: [Cat on Pexels](https://www.pexels.com/photo/selective-focus-photo-of-grey-cat-1521304/){:target="_blank"}<img src="images/cat.png" style="float:right;width:180px;" alt="Grey Cat in Grass">
 2. Open the photo in [Photopea](https://www.photopea.com/){:target="_blank"} by either clicking on the going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
-3. Go to the **Layers panel** and at the bottom click on the **half white circle icon** to bring up the **Adjustments layer menu** and then click on **Hue/Saturation**. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the Properties panel for this layer.<img src="images/cathue.png" style="float:right;width:180px;" alt="Grey Cat in Grass Magenta Eyes">
-4. In the **Properties panel** click on the little two-sided arrow button to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the eyes of the cat. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Yellow” as it will recognize this colour is in the yellow colour range.
+3. Go to the **Layers panel** and at the bottom click on the **half white circle icon** to bring up the **Adjustments layer menu** and then click on **Hue/Saturation**. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the Properties panel for this layer.
+4. In the **Properties panel** click on the little two-sided arrow button to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the eyes of the cat. <img src="images/cathue.png" style="float:right;width:180px;" alt="Grey Cat in Grass Magenta Eyes">You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Yellow” as it will recognize this colour is in the yellow colour range.
 5. Next, you can click and drag the Hue slider in the Properties panel to see the colour of the eyes change.
 <br><br>
-<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/cat-photopea1.gif">
       </div>
