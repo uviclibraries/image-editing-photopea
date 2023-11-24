@@ -42,7 +42,7 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 5. Next, you can click and drag the Hue slider in the Properties panel to see the colour of the eyes change.
 <br><br>
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif2">
+<div id="gif3">
       <img src="images/cat-photopea1.gif">
       </div>
 6. You will notice at this point that the yellow round circles of the dappled out of focus light points in the background (commonly called “bokeh”) are changing colour along with the eyes, as well as some of the grass in the foreground. Follow the next steps to isolate only the eyes for the hue change.
