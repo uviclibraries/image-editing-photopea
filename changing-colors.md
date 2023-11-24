@@ -40,6 +40,7 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 3. Go to the **Layers panel** and at the bottom click on the **half white circle icon** to bring up the **Adjustments layer menu** and then click on **Hue/Saturation**. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the Properties panel for this layer.
 4. In the **Properties panel** click on the little two-sided arrow button to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the eyes of the cat. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Yellow” as it will recognize this colour is in the yellow colour range.
 5. Next, you can click and drag the Hue slider in the Properties panel to see the colour of the eyes change.<img src="images/cathue.png" style="float:right;width:180px;" alt="Grey Cat in Grass Magenta Eyes">
+<br><br>
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/cat-photopea1.gif">
