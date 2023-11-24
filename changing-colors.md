@@ -40,6 +40,10 @@ How to use the Hue/Saturation Adjustment layer to change object colours easily. 
 3. Go to the **Layers panel** and at the bottom click on the **half white circle icon** to bring up the **Adjustments layer menu** and then click on **Hue/Saturation**. This will create a new layer over the top of the Background layer, called **Hue/Saturation 1**, and will bring up the Properties panel for this layer.
 4. In the **Properties panel** click on the little two-sided arrow button to activate it, and then go to the photo and click on somewhere in the colour you want to change. For this example, it will be in the eyes of the cat. You want a colour that is in the middle of the range, not too light or dark. The text next to the arrows in the Properties panel by “Range” should change to “Yellow” as it will recognize this colour is in the yellow colour range.
 5. Next, you can click and drag the Hue slider in the Properties panel to see the colour of the eyes change.<img src="images/cathue.png" style="float:right;width:180px;" alt="Grey Cat in Grass Magenta Eyes">
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/cat-photopea1.gif">
+      </div>
 6. You will notice at this point that the yellow round circles of the dappled out of focus light points in the background (commonly called “bokeh”) are changing colour along with the eyes, as well as some of the grass in the foreground. Follow the next steps to isolate only the eyes for the hue change.
 7. Click on the **white square in the Hue/Saturation layer** in the Layers panel to make sure it is selected (dashed lines around it).
 8. Go over to the left sidebar menu and click on the **colour picker** and choose **black**. Then select the **Brush Tool**. You can make the brush size bigger in the drop down menu at the top.  ![Sidebar Colour](images/colourpicker.png) ![Sidebar Colour 2](images/colourpicker2.png)
