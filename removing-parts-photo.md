@@ -30,5 +30,17 @@ This one looks deceptively simple, but once the person is removed, the sharp-edg
 [Example B](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/){:target="_blank"}<br>
 [Example C](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/){:target="_blank"}<br>
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [Next Steps: Removing The Background from Images](removing-image-background.html){:target="_blank"}{: .btn .btn-blue } or <br>
 [Earn a Badge](informal-credentials.html){: .btn .btn-blue }
