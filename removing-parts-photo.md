@@ -17,6 +17,10 @@ In a previous activity, we did a simple removal of simple, tiny objects but this
       </div>
 
 4. Before editing the layer, we will need to make a copy of it. To do this, go to the **Layers panel** on the right. (If this is not visible, you can go to Window in the top menu and make sure Layers is checked.) **Right click on the Background layer** and click **Duplicate Layer**. This will bring up a window with the option to give the new duplicate layer a name. **Type in a name and tap the Enter key**.<img src="images/lasso.png" style="float:right;width:180px;" alt="Lasso tool">
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/duplicate-layer.gif">
+      </div>
 5. Make sure your new layer is selected in the Layers panel and then go to the toolbar on the left and **click on the Lasso Tool**. This tool allows you to select an area using freehand drawing. **Use your mouse to draw closely around the person** without touching the edges until you get all the way around, while keeping the mouse button held down the whole time. As soon as you let go of the mouse button, the end of the selection line will connect with the other end to create a closed area. If you accidentally let go too soon, this will result in the selection cutting through your subject. To deselect and start over, click on **Select** in the top menu and then click **Deselect**, and then try again. This may take some practice until you get a selection you are happy with. Feel free to take your time moving the mouse around the subject.
 6. Once fully selected, go up to the top menu and **click on Edit** in the top menu and then **click on Fill**. This will bring up a small box with Fill options. Change Contents to **Content Aware. Click OK**.
 7. If you’ve selected something similar to this example you should get similar results to the right. Go ahead and go to **Select** in the top menu and **click on Deselect**.
