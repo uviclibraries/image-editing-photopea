@@ -15,6 +15,10 @@ If you have a graphic or photo and need to get rid of the background and convert
 1. Find the **Background Eraser Tool**: In the left toolbar menu, **click and hold on the Eraser Tool** icon and a menu containing two eraser tools will pop up. Select **Background Eraser Tool**. ![Eraser Tool](images/eraser.png)
 2. In the properties menu across the top, change the **Eraser Size** to **200** by clicking on the downward arrow next to the white dot. set the **Mode** to **Once** and the **Tolerance** to **30**. ![Brush Size](images/erasersettings.png)
 3. **Click** once on the background and **keep the mouse button pressed** while you move it to start erasing the background, replaced with a grey and white checked background (indicating a transparent area). **Click and erase** across all the areas of the background in different colour ranges until the only parts of the graphic left are what you want to keep. Note: by having the **Mode** set to **Once**, when you click on a section of the background, the eraser samples that colour and then keeping the mouse button pressed, the eraser will only erase that colour, even if you brush across the clock. As the colour is a gradient, you will need to re-click and drag to resample and erase other sections of the background. If you need to get into smaller areas to sample the correct colour, you can resize the brush.![Partial Background Erase](images/partial.png)
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/once-mode.gif">
+      </div>
 4. Trim away excess space by clicking on the **Crop Tool** in the left side toolbar. Click and drag the square handles around the perimeter of the image to show only the area that you want kept. Click the Checkmark at the top of the screen when you want to complete the crop.
 5. See the Exporting instructions at the end of this activity to save it. ![Full Background Erase](images/fullerase.png)
 
