@@ -13,12 +13,14 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for WORKSHOP
+### Earn an Informal Credential or Badge for Image Editing with Photopea
 
 If you’d like to earn a DSC badge for this workshop, please email the final saved files from following finished activities to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Cropping and Saving Photos for Online Use
 2. Basic Photo Edits
 3. Two Ways to Change Image Dimensions
+
+(Note: Let us know in your email if you'd also like to receive the Adobe Photoshop badge at the same time since the learning outcomes, activities, and requirements overlap.)
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
