@@ -48,5 +48,4 @@ If you have a graphic or photo and need to get rid of the background and convert
     }
 </script>
 
-[Next Steps: Take Home Sheet](take-home-sheet.html){: .btn .btn-blue } or <br>
-[Earn a Badge](informal-credentials.html){: .btn .btn-blue }
+[Next Step: Earn a Badge](informal-credentials.html){: .btn .btn-blue }
