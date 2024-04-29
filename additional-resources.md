@@ -16,8 +16,8 @@ nav_order: 10
 - [we have an introductory workshop for Canva here](https://uviclibraries.github.io/design-layout/){:target="_blank"}<br>
 - [Professional quality, diverse, and inclusive resource for free stock photography](https://www.pexels.com){:target="_blank"}<br>
 - [Another excellent resources for free, pro quality stock photography](https://unsplash.com/){:target="_blank"}<br>
-- [Extentive library of free icons - check attribution requirements](https://thenounproject.com/)(:target="_blank"}<br>
-- [Resource for free stock images as well as vector graphics](https://pixabay.com/)(:target="_blank"}<br>
+- [Extentive library of free icons - check attribution requirements](https://thenounproject.com/){:target="_blank"}<br>
+- [Resource for free stock images as well as vector graphics](https://pixabay.com/){:target="_blank"}<br>
 - [Design inspiration](https://www.designspiration.com/){:target="_blank"}<br>
 - [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}<br>
 - [Colour scheme generator](https://coolors.co){:target="_blank"}<br> 
