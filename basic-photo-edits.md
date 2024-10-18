@@ -26,12 +26,11 @@ Let’s move on using Photopea and do some basic edits to a photo. If you have a
 <div id="gif2">
       <img src="images/new-bpe2.gif">
       </div>
- 
-4. **Save**:  
-- Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
+4.**Save**:
+ - Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
  <img src="images/curves.png" style="float:right;width:180px;" alt="Curves">
 - Click on **File -> Save As PSD** in the upper left corner. We are going to save this in the Photopea .psd format, which will preserve the layers for the project we are working on, and not touch the original photo. This will save a PSD copy of the file to your Downloads folder. This is a good practice if you are doing a lot of detailed work and want to save your work partway into the project in case you lose it, or if you need to stop and go do something else for a while. Note however that if you Save As PSD again, it will download a new copy with all of your latest changes, so if you have saved previous versions of the file you are working on, you will have a different version for each stage of your process. You may way to rename the files to indicate that and possibly delete the older versions once you have finalized your project. 
-5. **Heal Tool**: Next we will use **Heal** to remove the visible screws in the post.
+5.**Heal Tool**: Next we will use **Heal** to remove the visible screws in the post.
 You will most likely have a bandage icon (**Healing Brush** or **Spot Healing** tool) showing in the left toolbar. If you **click and hold** on the tool, it will bring up the list of available tools in that group. Click on the **Spot Healing Brush** tool to select it.
 <img src="images/healingbrushes.png" style="float:right;width:180px;" alt="Healing Brushes tool">
 - Once selected, a menu at the top of the software will be there with specific options for that tool. In the example here, the round, white dot with the number 19 below indicates that the brush shape of the Spot Healing tool is round and solid, and 15 pixels in size. Click on the **downward arrow** right next to it, and adjust the **Size to 25**.
