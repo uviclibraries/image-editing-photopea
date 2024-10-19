@@ -37,12 +37,12 @@ You will most likely have a bandage icon (**Healing Brush** or **Spot Healing** 
 - Note: You will need to make sure that the Background layer is selected: go to **Layers** window to make sure you are working in the correct layer before making Healing Tool edits.
 <img src="images/spothealing.png" style="float:right;width:180px;" alt="Spot healingbrush">
  <button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif1">
+<div id="gif3">
       <img src="images/heal-tool.gif">
       </div>
 -  You might find it helpful to zoom in before healing. To zoom in to an area in your photo, **click on the Zoom** button (magnifying glass icon) at the bottom of the left toolbar and then click in the area you want to zoom. If you want to adjust where the image is sitting, you can **click on the Hand tool** (hand icon) right above the Zoom tool. If you’ve zoomed in too far, you can click on the **Zoom Out** button at the top left of the screen which will turn your Zoom tool into a Zoom Out tool and you can click on your image to zoom out. Once the image is in a comfortable position, you will need to **click back on the Spot Healing Brush tool again**. Use your left mouse button to **draw over the screw**. Go ahead and clean up the blemish right above it too. See to the right for a before and after.  Optionally, use the Spot Healing Brush to remove the screw at the base of the pole.
  <button onclick="toggle('gif4')">Show / Hide Animation </button>
-<div id="gif2">
+<div id="gif4">
       <img src="images/spot-brush.gif">
       </div>
 
