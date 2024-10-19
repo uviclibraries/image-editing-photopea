@@ -45,7 +45,9 @@ You will most likely have a bandage icon (**Healing Brush** or **Spot Healing** 
 <div id="gif4">
       <img src="images/spot-brush.gif">
       </div>
+
 - Use the **Zoom tool** to zoom back out to see the whole photo. 
+
 6. **Exporting**:
 To export this to a full size PNG file without the layers (Save as PSD as above to keep all the layers), click on **File -> Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%,  but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window. Click the **Save** button in the bottom corner when ready.
 
