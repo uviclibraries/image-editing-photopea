@@ -22,7 +22,10 @@ nav_order: 10
 - [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}<br>
 - [Colour scheme generator](https://coolors.co){:target="_blank"}<br> 
 - [Design freebies](https://graphicburger.com){:target="_blank"}
-
+- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+- [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+- [Creative Commons Audio & Music Search](https://open4us.org/find-oer/#Audio/MusicSearch){:target="_blank"}
+  
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
