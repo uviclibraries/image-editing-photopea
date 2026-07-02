@@ -19,7 +19,7 @@ aux_links:
     - "//lib.uvic.ca/dsc"
 
 aux_links_new_tab: true
-
+ 
 callouts:
   highlight:
     color: yellow
